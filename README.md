@@ -18,3 +18,6 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 /* e- commerce-electronic-mobile-firebase -project */
 //react native expo project...
 <!-- Failed to upload "ecommerce-electronic-page.mp4" -->
+
+
+https://github.com/user-attachments/assets/7f862dfe-2526-453d-99b7-e42faad42a36
