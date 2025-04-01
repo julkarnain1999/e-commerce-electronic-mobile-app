@@ -6,13 +6,7 @@ import { getFirestore } from "firebase/firestore";
 import { useState, useEffect } from "react";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAGKSFo_reHjSc7256dZlV-93inXM-dbco",
-  authDomain: "e-commerce-julkar.firebaseapp.com",
-  projectId: "e-commerce-julkar",
-  storageBucket: "e-commerce-julkar.firebasestorage.app",
-  messagingSenderId: "308784150329",
-  appId: "1:308784150329:web:691d365ede4b581cd35ae8",
-  measurementId: "G-M2SYEW6108",
+ //your key
 };
 
 // 🔥 Initialize Firebase App
